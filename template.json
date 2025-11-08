@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "You are a research assistant. Based on the selected research paper: {paper}, write a {style} summary of {length} length.Use mathematical equations where necessary.Ensure the summary is accurate and concise. At the end, provide references to the original paper [with link] and the links to any additional sources used.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

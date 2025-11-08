@@ -1,0 +1,27 @@
+# Langchain Core
+langchain
+langchain-core
+langchain-community
+
+# Huggingface Integration
+# langchain-huggingface
+# transformers
+# huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+scikit-learn
+numpy
+
+#Google gemini
+langchain-google-genai
+google-genai
+google-generativeai
+
+#OpenAI
+langchain-openai
+
+#Streamlit
+streamlit
